@@ -3,7 +3,7 @@ layout: default
 title: About me
 ---		
 
-![Photo - Honeymoon](http://www.garrardkitchen.com/wp-content/uploads/2010/02/Photo-Honeymoon-225x300.jpg) "Photo - Honeymoon")
+![Photo - Honeymoon](http://www.garrardkitchen.com/wp-content/uploads/2010/02/Photo-Honeymoon-225x300.jpg "Photo - Honeymoon")
 
 My current role is Chief Technology Officer for Qualtrak Solutions Ltd.  Here we provide Agent Evaluation, Coaching and E-Learning solutions for contact centre space.  We are based in the UK and have partners and alliances globally. I love all things technological. I am an early adopter of technologies. I'm a huge fan and advocate of the Scrum / Kanban Frameworks and spend most of days working with the Windows Azure platform.
 
