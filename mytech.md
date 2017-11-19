@@ -3,30 +3,59 @@ layout: default
 ---		
 
 &nbsp;
-#### Hot topics :
 
-* All AWS services!
-* docker (__incl. docker cloud__)
-* nats.io (__using this to transport Akka.NET messages between Docker container nodes__)
-* akka.net (__clustering but not for Docker__)
-* ElasticSearch 5.5 (__incl kibana__)
-* F#
-* dotnetcore
+#### Hot topics
 
+{: .list .default}
 
-Technologies I am currently using:
+- Amazon Connect
+- Amazon Quick Starts
+- All AWS services (esp. Lambda, CloudFoundation, EC2, S3, Kinesis, ES, IAM, RDS)
+- Azure Functions
+- Azure LogicApps
+- docker (__incl. docker cloud__ & Windows Server Containers)
+- ElasticSearch 5.5 (__incl kibana__)
+- F#
+- dotnetcore
+- nats.io (__using this to transport Akka.NET messages between Docker container nodes__)
+- akka.net (__clustering but not for Docker__)
+- CosmosDB
+
+#### Languages:
+
+{: .list .default}
+
+- C#
+- F#
+- Javascript
+- Go
+- Kotlin
+- Python
+- Silverlight 5
+- Elixir
+
+#### CI/CD
+
+{: .list .default}
+
+- VSTS
+- CodeStart
+- Jenkins
 
 #### Cloud:
 
-- c#
-- f#
-- Javascript
-- node.js
+{: .list .default}
+
+- C#
+- F#
 - .net 4.6.2
 - dotnetcore 2.0
+- VSTS
 - Akka.NET (__incl clustering__)
 - asp.net mvc
 - asp.net web api
+- CosmosDB
+- AWS CodeStart
 - signalR
 - angular.js
 - express.js
@@ -42,17 +71,21 @@ Technologies I am currently using:
 - Windows Azure (3 yrs+) - most services
 - Powershell
 - Chef
-- AWS (5yrs+)
+- AWS (8yrs+)
 - Docker (__Docker cloud, AWS &amp; Azure__)
 - Jenkins
 - mono
 - elixir
 - phoenix
 - Chef
+- Javascript
+- node.js
 
 #### Enterprise:
 
-- c#
+{: .list .default}
+
+- C#
 - Javascript
 - CoffeeScript
 - Silverlight 5
@@ -69,20 +102,31 @@ Technologies I am currently using:
 - EF
 - TeamCity
 
+
 #### Task runners / scaffolding:
+
+{: .list .default}
 
 - gruntjs
 - yeoman.io
 
 #### Orchestration
 
+{: .list .default}
+
 - CloudFormation
+- Serverless.com
 - ARM
+- docker Swarm
+- Kubernetes
 
 #### Auth:
 
+{: .list .default}
+
 - Azure AD
 - Active Directory
+- Cognito
 - LDAP
 - CAS (FA)
 - FA
@@ -91,6 +135,8 @@ Technologies I am currently using:
 - JWT
 
 #### Testing libraries:
+
+{: .list .default}
 
 - karma
 - mocha
@@ -104,11 +150,15 @@ Technologies I am currently using:
 
 #### Mobile:
 
+{: .list .default}
+
 - Android 4.2
 - WP8
 - AppBuilder (__Telerik__)
 
 #### Frameworks:
+
+{: .list .default}
 
 - TDD
 - BDD
@@ -117,6 +167,8 @@ Technologies I am currently using:
 
 #### Load / stress testing:
 
+{: .list .default}
+
 - jmeter
 - loader.io
 - blazemeter
@@ -124,16 +176,19 @@ Technologies I am currently using:
 
 #### Telemetry:
 
-- Stackify
-- NewRelic
-- Azure Application Insights
+{: .list .default}
 
-&nbsp;
+- Stackify
+- Azure Application Insights
+- NewRelic
 
 #### DB / search:
 
+{: .list .default}
+
 - ElasticSearch 5.5 (__incl Kibana__)
 - Azure SQL
+- CosmosDB
 - DynamoDb
 - CouchBase 4.5
 - SQLServer 2016
@@ -144,20 +199,25 @@ Technologies I am currently using:
 
 #### Big data:
 
+{: .list .default}
+
 - Redshift
 - GoodData
-- QlikView
+- QlikView
 
 #### IDEs & Tools:
+
+{: .list .default}
 
 - Visual Studio 2010/13/15/17
 - VSCode
 - Rider
+- VSTS
 - Jetbrains (Rider, Resharper, Pycharm, Webstorm, DataGrip)
 - SSMS + SQL Operations Studio
+- Atlassian Cloud (esp. JIRA, BitBucket & Confluence)
 - SmartAssembly
 - TeamCity
-- Atlassian Cloud (incl JIRA)
 - Telerik
 - Sublime3
 - MarkdownPad 2
@@ -170,11 +230,15 @@ Technologies I am currently using:
 
 #### IRC:
 
+{: .list .default}
+
 - Slack
 - Skype
 - HipChat
 
 #### DVCS:
+
+{: .list .default}
 
 - Git
 - Mercurial
@@ -182,15 +246,27 @@ Technologies I am currently using:
 
 #### OS:
 
+{: .list .default}
+
 - windows: desktop XP, Vista, 7, 8.1, 10
-- windows server: 2003, 2008 R2, 2012 R2
-- Linux: CentOS 6+, Ubuntu 12+
-- Mac: OS Yosemite
+- windows server: 2003, 2008 R2, 2012 R2, 2016
+- Linux: Amazon, CentOS 6+, Ubuntu 12+
+- Mac
 
 #### Virtualization:
+
+{: .list .default}
 
 - Hyper-V
 - VMWare
 - Virtualbox
-			
+
+#### Security
+
+{: .list .default}
+
+- ExpressVPN
+- MFA (Azure)
+- MFA (AWS)
+- MFA (GitHub & BitBucket)			
 			
