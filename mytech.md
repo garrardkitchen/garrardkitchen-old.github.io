@@ -39,7 +39,7 @@ layout: default
 {: .list .default}
 
 - VSTS
-- CodeStart
+- AWS CodeStar
 - Jenkins
 
 #### Cloud:
@@ -51,11 +51,17 @@ layout: default
 - .net 4.6.2
 - dotnetcore 2.0
 - VSTS
+- Azure Functions
+- Azure LogicApps
+- Azure (4yrs+)
+- AWS (8yrs+)
+- Docker (__Docker cloud, AWS &amp; Azure__)
 - Akka.NET (__incl clustering__)
 - asp.net mvc
 - asp.net web api
 - CosmosDB
-- AWS CodeStart
+- AWS CodeStar
+- Kubernetes
 - signalR
 - angular.js
 - express.js
@@ -64,15 +70,13 @@ layout: default
 - CoffeeScript
 - ECMAScript 6
 - jquery
-- twitter bootstrap
+- twitter bootstrap 4
 - foundation
 - semantic ui
 - mongoDB
 - Windows Azure (3 yrs+) - most services
 - Powershell
 - Chef
-- AWS (8yrs+)
-- Docker (__Docker cloud, AWS &amp; Azure__)
 - Jenkins
 - mono
 - elixir
@@ -96,7 +100,7 @@ layout: default
 - angular.js
 - signalr
 - KendoUI
-- twitter bootstrap
+- twitter bootstrap 4
 - DI (__Ninject, MEF, Unity__)
 - WCF
 - EF
@@ -119,6 +123,7 @@ layout: default
 - ARM
 - docker Swarm
 - Kubernetes
+- Chef
 
 #### Auth:
 
@@ -163,7 +168,7 @@ layout: default
 - TDD
 - BDD
 - DDD
-- Scrum
+- Scrum / Kanban
 
 #### Load / stress testing:
 
@@ -178,7 +183,7 @@ layout: default
 
 {: .list .default}
 
-- Stackify
+- Stackify (Retrace & prefix)
 - Azure Application Insights
 - NewRelic
 
