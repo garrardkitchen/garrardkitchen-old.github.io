@@ -5,13 +5,13 @@ layout: default
 &nbsp;
 #### Hot topics :
 
-- All AWS services!
-- docker (__incl. docker cloud__)
-- nats.io (__using this to transport Akka.NET messages between Docker container nodes__)
-- akka.net (__clustering but not for Docker__)
-- ElasticSearch 5.5 (__incl kibana__)
-- F#
-- dotnetcore
+* All AWS services!
+* docker (__incl. docker cloud__)
+* nats.io (__using this to transport Akka.NET messages between Docker container nodes__)
+* akka.net (__clustering but not for Docker__)
+* ElasticSearch 5.5 (__incl kibana__)
+* F#
+* dotnetcore
 
 
 Technologies I am currently using:
