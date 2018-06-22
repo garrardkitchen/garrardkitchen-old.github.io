@@ -4,8 +4,7 @@ layout: default
 
 &nbsp;
 
-![aws cert](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-12-13&ci=AWS00351917&dm=80)
-![AWS Cert](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-12-13&ci=AWS00351917)
+![aws cert](images/aws/AWS_Certified_Logo_1176x600_Color.png){: .center-image }
 
 #### Hot topics
 
