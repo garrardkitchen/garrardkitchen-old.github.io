@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<article id="main">
+    <header class="special container">
+        <span class="icon fa-mobile"></span>
+        <h2>My <strong>Projects</strong></h2>
+
+        <div>
+            I've been doing a ton of interesting and challenging work over the past year so I've decided to start documenting this work here.  The idea is to have a record of <b>what</b> I've been doing, <b>why</b> I've been doing them, <b>challenges</b> I've had to overcome and any <b>learning points</b> worth sharing.
+        </div>
+    </header>
+    
+    <section class="wrapper style4 container">
+        <ul class="posts">
+          {% for project in site.projects %}
+            <li class="wrapper {% if forloop.first %} style2 {% else %} style1 {% endif %}">
+              <h2><a href="{{ post.url }}">{{ project.title }} - ({{ project.short_date }})</a></h2>
+              
+              <div><label><b>Tech</b>:</label>
+              {% for tag in project.tech %}
+              <span><i>{{tag}}</i>, </span>
+              {% endfor %}
+              </div>
+                <b>{{ project.brief }}</b>
+                <br/>
+                <br/>
+                <section class="special">
+                    <ul class="buttons">
+                        <li><a href="{{ project.url }}" class="button">Read more</a></li>
+                    </ul></section>
+            </li>
+          {% endfor %}
+        </ul>
+    </section>
+</article>

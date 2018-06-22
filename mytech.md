@@ -12,7 +12,7 @@ layout: default
 
 - Amazon Connect
 - Amazon Quick Starts
-- All AWS services (esp. Lambda, Step Functions, CloudFoundation, EC2, S3, Kinesis, Elasticsearch, IAM, RDS)
+- All AWS services (esp. Lambda, Step Functions, API Gateway, WAF, CloudFront, CloudFoundation, EC2, S3, Kinesis, Elasticsearch, IAM, RDS)
 - Data Analysis library: pandas
 - Jupyter Notebooks
 - Azure Functions
@@ -21,7 +21,7 @@ layout: default
 - ElasticSearch 5.5 (__incl kibana__)
 - F#
 - Python
-- .NET Core 2.
+- .NET Core 2
 - nats.io (__using this to transport Akka.NET messages between Docker container nodes__)
 - akka.net (__clustering but not for Docker__)
 - CosmosDB
@@ -57,8 +57,10 @@ layout: default
 
 - C#
 - F#
-- .net 4.6.2
-- dotnetcore 2.0
+- Python
+- Nodejs
+- .NET Framework 4.6.2
+- .NET Core 2.0
 - VSTS
 - Azure Functions
 - Azure LogicApps
@@ -92,7 +94,7 @@ layout: default
 - phoenix
 - Chef
 - Javascript
-- node.js
+
 
 #### Enterprise:
 
@@ -139,6 +141,7 @@ layout: default
 {: .list .default}
 
 - Azure AD
+- OAuth
 - Active Directory
 - Cognito
 - LDAP
@@ -201,6 +204,8 @@ layout: default
 {: .list .default}
 
 - ElasticSearch 5.5 (__incl Kibana__)
+- Amazon Aurora
+- Amazon RDS
 - Azure SQL
 - CosmosDB
 - DynamoDb
@@ -246,6 +251,7 @@ layout: default
 
 {: .list .default}
 
+- Stride
 - Slack
 - Skype
 - HipChat
@@ -264,7 +270,7 @@ layout: default
 
 - windows: desktop XP, Vista, 7, 8.1, 10
 - windows server: 2003, 2008 R2, 2012 R2, 2016
-- Linux: Amazon, CentOS 6+, Ubuntu 12+
+- Linux: Amazon, CentOS 6+, Ubuntu 12+, MS WSL
 - Mac
 
 #### Virtualization:

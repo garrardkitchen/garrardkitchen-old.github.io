@@ -9,6 +9,13 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://locahost:4000" # the base hostname & protocol for your site
 twitter_username: garrardkitchen
 github_username:  garrardkitchen
+#collections_dir: my_collections
 
 # Build settings
 markdown: kramdown
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+    

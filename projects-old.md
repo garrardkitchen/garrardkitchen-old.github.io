@@ -6,7 +6,14 @@ title: Projects
 &nbsp;
 
 
+
+
+
+
+
 # Projects
+
+I've been doing lots of interesting and challenging things over the last year so I've decided to start recording them here.  The idea is to have a record of what I've been doing, why I've been doing them, challenges I've had to overcome and any learning points worth sharing.
 
 ## **Dashboard ETL** (May 2018)
 
