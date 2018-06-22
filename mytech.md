@@ -4,19 +4,25 @@ layout: default
 
 &nbsp;
 
+![aws cert](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-12-13&ci=AWS00351917&dm=80)
+![AWS Cert](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-12-13&ci=AWS00351917)
+
 #### Hot topics
 
 {: .list .default}
 
 - Amazon Connect
 - Amazon Quick Starts
-- All AWS services (esp. Lambda, CloudFoundation, EC2, S3, Kinesis, ES, IAM, RDS)
+- All AWS services (esp. Lambda, Step Functions, CloudFoundation, EC2, S3, Kinesis, Elasticsearch, IAM, RDS)
+- Data Analysis library: pandas
+- Jupyter Notebooks
 - Azure Functions
 - Azure LogicApps
 - docker (__incl. docker cloud__ & Windows Server Containers)
 - ElasticSearch 5.5 (__incl kibana__)
 - F#
-- dotnetcore
+- Python
+- .NET Core 2.
 - nats.io (__using this to transport Akka.NET messages between Docker container nodes__)
 - akka.net (__clustering but not for Docker__)
 - CosmosDB
@@ -27,10 +33,11 @@ layout: default
 
 - C#
 - F#
+- Python
+- Nodejs
 - Javascript
 - Go
 - Kotlin
-- Python
 - Silverlight 5
 - Elixir
 
@@ -39,7 +46,10 @@ layout: default
 {: .list .default}
 
 - VSTS
+- AWS CodeBuild
+- AWS CodePipeline
 - AWS CodeStar
+- TeamCity
 - Jenkins
 
 #### Cloud:
