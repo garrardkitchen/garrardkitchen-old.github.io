@@ -10,21 +10,28 @@ layout: default
 
 {: .list .default}
 
+- Big Data
+- ML
+- Amazon EMR
+- AWS Data Pipeline
+- AWS Glue
+- Amazon Elasticsearch 6 (__incl kibana__)
+- All AWS services (esp. Lambda, Step Functions, API Gateway, WAF, CloudFront, CloudFoundation, EC2, S3, Kinesis, Elasticsearch, IAM, RDS)
 - Amazon Connect
 - Amazon Quick Starts
-- All AWS services (esp. Lambda, Step Functions, API Gateway, WAF, CloudFront, CloudFoundation, EC2, S3, Kinesis, Elasticsearch, IAM, RDS)
+- Amazon Transcribe
+- Amazon Comprehend
 - Data Analysis library: pandas
 - Jupyter Notebooks
-- Azure Functions
-- Azure LogicApps
 - docker (__incl. docker cloud__ & Windows Server Containers)
-- ElasticSearch 5.5 (__incl kibana__)
 - F#
 - Python
-- .NET Core 2
+- .NET Core 2.1
 - nats.io (__using this to transport Akka.NET messages between Docker container nodes__)
 - akka.net (__clustering but not for Docker__)
-- CosmosDB
+- Amazon Aurora (& serverless)
+- Kubernetes (Amazon EKS)
+- Amazon Pinpoint (Email & Website events)
 
 #### Languages:
 
@@ -40,11 +47,21 @@ layout: default
 - Silverlight 5
 - Elixir
 
+#### Serverless
+
+- AWS Lambda
+- AWS Step Functions
+- AWS ECS Fargate
+- Serverless Framework (c#, f#, python, nodejs)
+- Serverless Applications
+- Azure Functions
+- Azure LogicApps
+
 #### CI/CD
 
 {: .list .default}
 
-- VSTS
+- DevOps (VSTS)
 - AWS CodeBuild
 - AWS CodePipeline
 - AWS CodeStar
@@ -60,13 +77,17 @@ layout: default
 - Python
 - Nodejs
 - .NET Framework 4.6.2
-- .NET Core 2.0
+- .NET Core 2.1
 - VSTS
+- AWS Lambda
+- AWS Step Functions
+- AWS ECS Fargate
 - Azure Functions
 - Azure LogicApps
 - Azure (4yrs+)
 - AWS (8yrs+)
 - Docker (__Docker cloud, AWS &amp; Azure__)
+- Kubernetes (EKS)
 - Akka.NET (__incl clustering__)
 - asp.net mvc
 - asp.net web api
