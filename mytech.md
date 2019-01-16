@@ -49,6 +49,8 @@ layout: default
 
 #### Serverless
 
+{: .list .default}
+
 - AWS Lambda
 - AWS Step Functions
 - AWS ECS Fargate
